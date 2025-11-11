@@ -1,3 +1,6 @@
+## Archived as of 11/11/2025
+See https://github.com/kaan-w/vicinae-extensions/issues/1#issuecomment-3474932155
+
 ## Installation
 - Add this flake as an input:
 ```nix
